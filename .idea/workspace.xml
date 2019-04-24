@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4251b90-11bb-4f11-9a35-ecab8fb9c3ac" name="Default" comment="initiate">
+      <change afterPath="$PROJECT_DIR$/.bowerrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yo-rc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/angular-animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/angular-animate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/angular-animate.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-animate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/angular-cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/angular-cookies.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/angular-cookies.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-cookies/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/angular-mocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/ngAnimateMock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/ngMock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/ngMockE2E.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-mocks/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/angular-resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/angular-resource.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/angular-resource.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-resource/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/angular-route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/angular-route.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/angular-route.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-route/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/angular-sanitize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/angular-sanitize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-sanitize/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/angular-touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/angular-touch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/angular-touch.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular-touch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/angular-csp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/angular.min.js.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/angular.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/angular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/npm-shrinkwrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/.csscomb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/.csslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/reset-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/nuget/MyGet.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/nuget/bootstrap.less.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/dist/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/camelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/toType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/rboxStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/isFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/isWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bower_components/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/yeoman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/Directives/footerDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/Directives/headerDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/controllers/LoginCtrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/controllers/homeCtrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/controllers/orderController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/OrderHtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spec/controllers/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/OrderHtml.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#604#611#1" expanded="true" />
+                <element signature="e#3109#3116#1" expanded="true" />
+                <element signature="e#5442#5449#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/LoginCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>postData</find>
+      <find>OrderCtrl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/CreateSchoolCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/studentCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/ResultCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/changepasswordCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/ClassCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/footer.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/loginCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/student/result.html" />
+        <option value="$PROJECT_DIR$/app/views/student/viewQuestionPaper.html" />
+        <option value="$PROJECT_DIR$/app/views/student/writeTest.html" />
+        <option value="$PROJECT_DIR$/app/views/student/changePassword.html" />
+        <option value="$PROJECT_DIR$/app/views/changePassword.html" />
+        <option value="$PROJECT_DIR$/app/views/school/result.html" />
+        <option value="$PROJECT_DIR$/app/views/school/updateQuestion.html" />
+        <option value="$PROJECT_DIR$/app/views/Admin/createSchool.html" />
+        <option value="$PROJECT_DIR$/app/views/Admin/schoolsList.html" />
+        <option value="$PROJECT_DIR$/app/views/table.html" />
+        <option value="$PROJECT_DIR$/app/views/ChangePassword.html" />
+        <option value="$PROJECT_DIR$/app/views/ChangePwd.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/ChangepwdCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/school/class.html" />
+        <option value="$PROJECT_DIR$/app/views/school/subject.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/classCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/school/student.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/adminCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/StudentCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/SubjectCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/school/test.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/TestCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/school/question.html" />
+        <option value="$PROJECT_DIR$/app/views/header.html" />
+        <option value="$PROJECT_DIR$/app/scripts/Directives/menuDir.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/homeCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/menu.html" />
+        <option value="$PROJECT_DIR$/app/scripts/Directives/subMenuDir.js" />
+        <option value="$PROJECT_DIR$/app/scripts/Directives/tableDir.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/editCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/editUser.html" />
+        <option value="$PROJECT_DIR$/app/views/home.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/orderController.js" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/serverCallService.js" />
+        <option value="$PROJECT_DIR$/app/scripts/Directives/headerDir.js" />
+        <option value="$PROJECT_DIR$/app/scripts/Directives/footerDir.js" />
+        <option value="$PROJECT_DIR$/app/views/edit&amp;add.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views/OrderHtml.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/LoginCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="626" />
+    <option name="y" value="24" />
+    <option name="width" value="702" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4251b90-11bb-4f11-9a35-ecab8fb9c3ac" name="Default" comment="" />
+      <created>1535980811312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535980811312</updated>
+      <workItem from="1535980814161" duration="1956000" />
+      <workItem from="1535983673260" duration="243000" />
+      <workItem from="1535988222765" duration="8778000" />
+      <workItem from="1536006359763" duration="471000" />
+      <workItem from="1536035245594" duration="12201000" />
+      <workItem from="1536078343982" duration="9060000" />
+      <workItem from="1536141700783" duration="19379000" />
+      <workItem from="1536245397735" duration="10656000" />
+      <workItem from="1536312703018" duration="15203000" />
+      <workItem from="1536410275485" duration="2879000" />
+      <workItem from="1536497604979" duration="632000" />
+      <workItem from="1536498709848" duration="7209000" />
+      <workItem from="1536572788131" duration="15580000" />
+      <workItem from="1536597680535" duration="3271000" />
+      <workItem from="1536640894404" duration="1969000" />
+      <workItem from="1536660396417" duration="14437000" />
+      <workItem from="1536773707075" duration="1042000" />
+      <workItem from="1536775291624" duration="4927000" />
+      <workItem from="1536831430364" duration="5144000" />
+      <workItem from="1536898594561" duration="3314000" />
+      <workItem from="1536916998529" duration="286000" />
+      <workItem from="1536918269982" duration="15788000" />
+      <workItem from="1536985499518" duration="26093000" />
+      <workItem from="1537043311116" duration="3440000" />
+      <workItem from="1537158603823" duration="1479000" />
+      <workItem from="1537186061059" duration="1114000" />
+      <workItem from="1537244185677" duration="16171000" />
+      <workItem from="1537331820886" duration="7026000" />
+      <workItem from="1537503695488" duration="33000" />
+      <workItem from="1537594084994" duration="1737000" />
+      <workItem from="1539324001983" duration="311000" />
+      <workItem from="1539327965344" duration="16000" />
+      <workItem from="1540825664039" duration="300000" />
+      <workItem from="1542109847991" duration="1129000" />
+      <workItem from="1544171536484" duration="333000" />
+      <workItem from="1544371998124" duration="1066000" />
+      <workItem from="1555793409422" duration="462000" />
+      <workItem from="1555795440850" duration="23785000" />
+      <workItem from="1555944279939" duration="50678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="289598000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3441755" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initiate" />
+    <option name="LAST_COMMIT_MESSAGE" value="initiate" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/ResultCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/student/viewQuestionPaper.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/student/result.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/student/changePassword.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/student/writeTest.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/result.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/updateQuestion.html" />
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular/angular.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/createSchool.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/ChangepwdCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/ChangePwd.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/schoolsList.html" />
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/student.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/class.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/classCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/subject.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/StudentCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/adminCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/test.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/TestCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/school/question.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/SubjectCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/main.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/Directives/subMenuDir.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/Directives/tableDir.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/editCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/editUser.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/menu.html" />
+    <entry file="file://$PROJECT_DIR$/app/views/home.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/homeCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/Directives/menuDir.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/orderController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/serverCallService.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/table.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/Directives/headerDir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/Directives/footerDir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/edit&amp;add.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc" />
+    <entry file="file://$PROJECT_DIR$/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/OrderHtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#604#611#1" expanded="true" />
+            <element signature="e#3109#3116#1" expanded="true" />
+            <element signature="e#5442#5449#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/LoginCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
